@@ -1,0 +1,6 @@
+{
+  "name": "Cam's Customizer",
+  "description": "Premium customization shopping client and developer dashboard for Cam's 15-product catalogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
